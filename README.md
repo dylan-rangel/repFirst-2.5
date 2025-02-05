@@ -41,7 +41,3 @@
 - npm or yarn
 - Any required environment variables (can be found in the `.env.example` file)
 
-### Steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/repFirst-2.5.git
