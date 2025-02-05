@@ -1,0 +1,645 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:2:1-329:12
+INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:2:1-329:12
+INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:2:1-329:12
+INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:2:1-329:12
+INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:2:1-329:12
+INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:2:1-329:12
+INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:2:1-329:12
+	package
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:7:5-26
+		INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml
+	android:compileSdkVersionCodename
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:6:5-43
+	android:versionName
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml
+	android:compileSdkVersion
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:5:5-35
+	xmlns:android
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml
+	platformBuildVersionName
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:9:5-34
+	platformBuildVersionCode
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:8:5-34
+uses-sdk
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:10:5-12:40
+INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:10:5-12:40
+INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:10:5-12:40
+INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:10:5-12:40
+INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:10:5-12:40
+	android:targetSdkVersion
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:12:9-38
+		INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:11:9-35
+		INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:15:5-64
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:15:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:17:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:18:22-63
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:20:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:21:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:22:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:23:22-79
+queries
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:24:5-33:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:25:9-27:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:26:21-70
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:28:9-32:18
+action#android.intent.action.VIEW
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:29:13-64
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:29:21-62
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:30:13-73
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:30:23-71
+data
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:31:13-43
+	android:scheme
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:31:19-41
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:34:5-71
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:34:22-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:35:5-73
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:35:22-71
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:36:5-72
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:36:22-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:37:5-75
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:37:22-73
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:38:5-87
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:38:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:39:5-81
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:39:22-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:40:5-109
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:40:22-107
+permission#repfirst.io.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:41:5-43:46
+	android:protectionLevel
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:43:9-44
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:42:9-76
+uses-permission#repfirst.io.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:44:5-91
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:44:22-89
+application
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:45:5-328:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:54:9-52
+	android:label
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:47:9-41
+	android:appComponentFactory
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:53:9-77
+	android:hardwareAccelerated
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:51:9-44
+	android:roundIcon
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:52:9-54
+	android:icon
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:48:9-43
+	android:allowBackup
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:50:9-36
+	android:theme
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:46:9-40
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:49:9-49
+provider#com.vinzscam.reactnativefileviewer.FileProvider
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:55:9-63:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:59:13-47
+	android:authorities
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:58:13-55
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:56:13-75
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:60:13-62:69
+	android:resource
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:62:17-67
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:61:17-67
+activity#com.riata.MainActivity
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:64:9-81:20
+	android:label
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:65:13-45
+	android:launchMode
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:68:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:70:13-55
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:67:13-36
+	android:configChanges
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:69:13-122
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:66:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:71:13-74:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:72:17-68
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:72:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:73:17-76
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:73:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:riata
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:75:13-80:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:77:17-75
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:77:27-73
+service#com.wix.reactnativenotifications.core.ProxyService
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:82:9-85
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:82:18-83
+service#com.wix.reactnativenotifications.fcm.FcmInstanceIdListenerService
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:83:9-90:19
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:85:13-36
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:84:13-93
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT+action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:86:13-89:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:87:17-77
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:87:25-75
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:88:17-79
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:88:25-77
+service#com.wix.reactnativenotifications.fcm.FcmInstanceIdRefreshHandlerService
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:91:9-94:39
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:94:13-37
+	android:permission
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:93:13-69
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:92:13-99
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:95:9-97:39
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:97:13-37
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:96:13-103
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:98:9-104:19
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:100:13-37
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:99:13-95
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:101:13-103:29
+	android:priority
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:177:28-51
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:105:9-112:20
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:108:13-36
+	android:permission
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:107:13-73
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:106:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:109:13-111:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:110:17-80
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:110:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:113:9-115:35
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:115:13-33
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:114:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:116:9-118:40
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:118:13-38
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:117:13-89
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:119:9-121:46
+	android:resource
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:121:13-44
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:120:13-84
+meta-data#app_data_collection_default_enabled
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:122:9-124:35
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:124:13-33
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:123:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:125:9-156:19
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:127:13-37
+	android:directBootAware
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:128:13-43
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:126:13-84
+meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:129:13-131:84
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:131:17-82
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:130:17-120
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:132:13-134:84
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:134:17-82
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:133:17-122
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:135:13-137:84
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:137:17-82
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:136:17-119
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:138:13-140:84
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:140:17-82
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:139:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:141:13-143:84
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:143:17-82
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:142:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:144:13-146:84
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:146:17-82
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:145:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:147:13-149:84
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:149:17-82
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:148:17-116
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:150:13-152:84
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:152:17-82
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:151:17-109
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:153:13-155:84
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:155:17-82
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:154:17-115
+provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:157:9-161:37
+	android:authorities
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:160:13-81
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:159:13-37
+	android:initOrder
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:161:13-35
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:158:13-88
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:162:9-172:20
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:165:13-36
+	android:permission
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:164:13-73
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:163:13-78
+meta-data#com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:169:13-171:39
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:171:17-37
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:170:17-92
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:173:9-180:19
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:175:13-37
+	android:directBootAware
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:176:13-43
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:174:13-82
+meta-data#io.sentry.auto-init
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:181:9-183:36
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:183:13-34
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:182:13-47
+provider#com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:184:9-192:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:188:13-47
+	android:authorities
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:187:13-55
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:186:13-37
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:185:13-94
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:193:9-195:62
+	android:theme
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:194:13-69
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:195:13-60
+activity#androidx.biometric.DeviceCredentialHandlerActivity
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:196:9-199:38
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:199:13-36
+	android:theme
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:197:13-64
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:198:13-78
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:200:9-208:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:204:13-47
+	android:authorities
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:203:13-59
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:202:13-37
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:201:13-83
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:209:9-217:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:213:13-47
+	android:authorities
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:212:13-55
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:211:13-37
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:210:13-62
+property
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:218:9-220:60
+	android:resource
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:220:13-58
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:219:13-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:221:9-224:39
+	android:enabled
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:223:13-35
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:224:13-37
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:222:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:225:9-228:39
+	android:enabled
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:227:13-35
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:228:13-37
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:226:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:229:9-233:39
+	android:enabled
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:232:13-35
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:233:13-37
+	android:permission
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:231:13-69
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:230:13-87
+uses-library#android.ext.adservices
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:234:9-236:39
+	android:required
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:236:13-37
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:235:13-50
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:237:9-241:48
+	android:excludeFromRecents
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:241:13-46
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:240:13-37
+	android:theme
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:238:13-72
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:239:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:242:9-246:50
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:245:13-36
+	android:visibleToInstantApps
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:246:13-48
+	android:permission
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:244:13-107
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:243:13-89
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:247:9-249:42
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:249:13-40
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:248:13-84
+activity#net.openid.appauth.AuthorizationManagementActivity
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:250:9-255:117
+	android:launchMode
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:254:13-44
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:253:13-37
+	android:configChanges
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:255:13-115
+	android:theme
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:251:13-74
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:252:13-78
+activity#net.openid.appauth.RedirectUriReceiverActivity
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:256:9-265:20
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:258:13-36
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:257:13-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:riata.auth
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:259:13-264:29
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:266:9-269:39
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:269:13-37
+	android:theme
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:267:13-72
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:268:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:270:9-275:45
+	android:authorities
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:273:13-67
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:272:13-37
+	android:directBootAware
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:275:13-43
+	android:initOrder
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:274:13-36
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:271:13-77
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:276:9-278:68
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:278:13-66
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:277:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:279:9-285:19
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:281:13-37
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:280:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:282:13-284:38
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:284:17-36
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:283:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:286:9-289:39
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:289:13-37
+	android:permission
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:288:13-69
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:287:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:290:9-292:39
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:292:13-37
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:291:13-132
+provider#io.sentry.android.core.SentryInitProvider
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:293:9-296:67
+	android:authorities
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:296:13-65
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:295:13-37
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:294:13-69
+provider#io.sentry.android.core.SentryPerformanceProvider
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:297:9-301:38
+	android:authorities
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:300:13-72
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:299:13-37
+	android:initOrder
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:301:13-36
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:298:13-76
+provider#androidx.startup.InitializationProvider
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:302:9-312:20
+	android:authorities
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:305:13-63
+	android:exported
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:304:13-37
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:303:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:306:13-308:51
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:308:17-49
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:307:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:309:13-311:51
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:311:17-49
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:310:17-78
+meta-data#com.android.dynamic.apk.fused.modules
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:313:9-315:35
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:315:13-33
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:314:13-65
+meta-data#com.android.stamp.source
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:316:9-318:60
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:318:13-58
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:317:13-52
+meta-data#com.android.stamp.type
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:319:9-321:56
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:321:13-54
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:320:13-50
+meta-data#com.android.vending.splits
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:322:9-324:46
+	android:resource
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:324:13-44
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:323:13-54
+meta-data#com.android.vending.derived.apk.id
+ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:325:9-327:32
+	android:value
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:327:13-30
+	android:name
+		ADDED from C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:326:13-62

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/_fingerprint_dialog_error_to_fp__0_res_0x7f080006">
+    <target
+        android:name="_R_G_L_2_G_D_0_P_0"
+        android:animation="@drawable/_fingerprint_dialog_error_to_fp__1_res_0x7f080007"/>
+    <target
+        android:name="_R_G_L_2_G_D_1_P_0"
+        android:animation="@drawable/_fingerprint_dialog_error_to_fp__4_res_0x7f080028"/>
+    <target
+        android:name="_R_G_L_2_G_D_2_P_0"
+        android:animation="@drawable/_fingerprint_dialog_error_to_fp__7_res_0x7f08002c"/>
+    <target
+        android:name="_R_G_L_2_G_D_3_P_0"
+        android:animation="@drawable/_fingerprint_dialog_error_to_fp__10_res_0x7f080008"/>
+    <target
+        android:name="_R_G_L_2_G_D_4_P_0"
+        android:animation="@drawable/_fingerprint_dialog_error_to_fp__13_res_0x7f08000b"/>
+    <target
+        android:name="_R_G_L_2_G"
+        android:animation="@drawable/_fingerprint_dialog_error_to_fp__16_res_0x7f08000e"/>
+    <target
+        android:name="_R_G_L_1_G_D_0_P_0"
+        android:animation="@drawable/_fingerprint_dialog_error_to_fp__19_res_0x7f080011"/>
+    <target
+        android:name="_R_G_L_1_G"
+        android:animation="@drawable/_fingerprint_dialog_error_to_fp__21_res_0x7f080014"/>
+    <target
+        android:name="_R_G_L_0_G_D_0_P_0_G_0_T_0"
+        android:animation="@drawable/_fingerprint_dialog_error_to_fp__24_res_0x7f080017"/>
+    <target
+        android:name="_R_G_L_0_G_D_0_P_0_G_0_T_0"
+        android:animation="@drawable/_fingerprint_dialog_error_to_fp__27_res_0x7f08001a"/>
+    <target
+        android:name="_R_G_L_0_G_D_0_P_1_G_0_T_0"
+        android:animation="@drawable/_fingerprint_dialog_error_to_fp__32_res_0x7f080020"/>
+    <target
+        android:name="_R_G_L_0_G_D_0_P_1_G_0_T_0"
+        android:animation="@drawable/_fingerprint_dialog_error_to_fp__35_res_0x7f080023"/>
+    <target
+        android:name="time_group"
+        android:animation="@drawable/_fingerprint_dialog_error_to_fp__40_res_0x7f080029"/>
+</animated-vector>

@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Official\\Desktop\\GradleRep\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Official\\Desktop\\GradleRep\\app\\src\\main\\res\\values-watch\\colors.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "57,137,217,297,389,471,563",
+                        "endColumns": "78,78,78,90,80,90,79",
+                        "endOffsets": "131,211,291,383,465,557,638"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,134,213,292,383,464,555",
+                        "endColumns": "78,78,78,90,80,90,79",
+                        "endOffsets": "129,208,287,378,459,550,630"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Official\\Desktop\\GradleRep\\app\\src\\main\\res\\values-watch\\styles.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,284,523",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "278,517,758"
+                    },
+                    "to": {
+                        "startLines": "9,13,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "635,858,1093",
+                        "endLines": "12,16,20",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "853,1088,1325"
+                    }
+                }
+            ]
+        }
+    ]
+}

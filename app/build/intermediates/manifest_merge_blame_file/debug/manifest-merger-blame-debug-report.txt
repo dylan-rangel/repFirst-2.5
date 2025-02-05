@@ -1,0 +1,707 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="repfirst.io"
+4    platformBuildVersionCode="33"
+5    platformBuildVersionName="13"
+6    android:compileSdkVersion="33"
+7    android:compileSdkVersionCodename="13"
+8    android:versionCode="28435433"
+9    android:versionName="6.1.0" >
+10
+11    <uses-sdk
+11-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:10:5-12:40
+12        android:minSdkVersion="21"
+12-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:11:9-35
+13        android:targetSdkVersion="33" />
+13-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:12:9-38
+14
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:13:5-78
+15-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:13:22-76
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:14:5-66
+16-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:14:22-64
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:15:5-64
+17-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:15:22-62
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:16:5-80
+18-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:16:22-78
+19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:17:5-79
+19-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:17:22-77
+20    <uses-permission android:name="android.permission.VIBRATE" />
+20-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:18:5-65
+20-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:18:22-63
+21    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+21-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:19:5-75
+21-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:19:22-73
+22    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+22-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:20:5-76
+22-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:20:22-74
+23    <uses-permission android:name="android.permission.WAKE_LOCK" />
+23-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:21:5-67
+23-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:21:22-65
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+24-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:22:5-78
+24-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:22:22-76
+25    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+25-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:23:5-81
+25-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:23:22-79
+26
+27    <queries>
+27-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:24:5-33:15
+28        <intent>
+28-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:25:9-27:18
+29            <action android:name="android.media.action.IMAGE_CAPTURE" />
+29-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:26:13-72
+29-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:26:21-70
+30        </intent>
+31        <intent>
+31-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:28:9-32:18
+32            <action android:name="android.intent.action.VIEW" />
+32-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:29:13-64
+32-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:29:21-62
+33
+34            <category android:name="android.intent.category.BROWSABLE" />
+34-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:30:13-73
+34-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:30:23-71
+35
+36            <data android:scheme="https" />
+36-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:31:13-43
+36-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:31:19-41
+37        </intent>
+38    </queries>
+39
+40    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+40-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:34:5-71
+40-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:34:22-69
+41    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+41-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:35:5-73
+41-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:35:22-71
+42    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+42-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:36:5-72
+42-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:36:22-70
+43    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+43-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:37:5-75
+43-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:37:22-73
+44    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
+44-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:38:5-87
+44-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:38:22-85
+45    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
+45-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:39:5-81
+45-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:39:22-79
+46    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+46-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:40:5-109
+46-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:40:22-107
+47
+48    <permission
+48-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:41:5-43:46
+49        android:name="repfirst.io.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+49-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:42:9-76
+50        android:protectionLevel="signature" />
+50-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:43:9-44
+51
+52    <uses-permission android:name="repfirst.io.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+52-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:44:5-91
+52-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:44:22-89
+53
+54    <application
+54-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:45:5-328:19
+55        android:name="com.riata.MainApplication"
+55-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:49:9-49
+56        android:allowBackup="false"
+56-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:50:9-36
+57        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+57-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:53:9-77
+58        android:debuggable="true"
+59        android:hardwareAccelerated="false"
+59-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:51:9-44
+60        android:icon="@mipmap/ic_launcher"
+60-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:48:9-43
+61        android:label="@string/app_name"
+61-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:47:9-41
+62        android:requestLegacyExternalStorage="true"
+62-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:54:9-52
+63        android:roundIcon="@mipmap/ic_launcher_round"
+63-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:52:9-54
+64        android:testOnly="true"
+65        android:theme="@style/AppTheme" >
+65-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:46:9-40
+66        <provider
+66-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:55:9-63:20
+67            android:name="com.vinzscam.reactnativefileviewer.FileProvider"
+67-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:56:13-75
+68            android:authorities="repfirst.io.provider"
+68-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:58:13-55
+69            android:exported="false"
+69-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:57:13-37
+70            android:grantUriPermissions="true" >
+70-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:59:13-47
+71            <meta-data
+71-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:60:13-62:69
+72                android:name="android.support.FILE_PROVIDER_PATHS"
+72-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:61:17-67
+73                android:resource="@xml/file_viewer_provider_paths" />
+73-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:62:17-67
+74        </provider>
+75
+76        <activity
+76-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:64:9-81:20
+77            android:name="com.riata.MainActivity"
+77-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:66:13-50
+78            android:configChanges="smallestScreenSize|screenSize|uiMode|screenLayout|orientation|keyboardHidden|keyboard"
+78-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:69:13-122
+79            android:exported="true"
+79-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:67:13-36
+80            android:label="@string/app_name"
+80-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:65:13-45
+81            android:launchMode="singleTask"
+81-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:68:13-44
+82            android:windowSoftInputMode="adjustResize" >
+82-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:70:13-55
+83            <intent-filter>
+83-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:71:13-74:29
+84                <action android:name="android.intent.action.MAIN" />
+84-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:72:17-68
+84-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:72:25-66
+85
+86                <category android:name="android.intent.category.LAUNCHER" />
+86-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:73:17-76
+86-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:73:27-74
+87            </intent-filter>
+88            <intent-filter>
+88-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:75:13-80:29
+89                <action android:name="android.intent.action.VIEW" />
+89-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:29:13-64
+89-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:29:21-62
+90
+91                <category android:name="android.intent.category.DEFAULT" />
+91-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:77:17-75
+91-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:77:27-73
+92                <category android:name="android.intent.category.BROWSABLE" />
+92-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:30:13-73
+92-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:30:23-71
+93
+94                <data android:scheme="riata" />
+94-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:31:13-43
+94-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:31:19-41
+95            </intent-filter>
+96        </activity>
+97
+98        <service android:name="com.wix.reactnativenotifications.core.ProxyService" />
+98-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:82:9-85
+98-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:82:18-83
+99        <service
+99-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:83:9-90:19
+100            android:name="com.wix.reactnativenotifications.fcm.FcmInstanceIdListenerService"
+100-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:84:13-93
+101            android:exported="true" >
+101-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:85:13-36
+102            <intent-filter>
+102-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:86:13-89:29
+103                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+103-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:87:17-77
+103-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:87:25-75
+104                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+104-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:88:17-79
+104-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:88:25-77
+105            </intent-filter>
+106        </service>
+107        <service
+107-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:91:9-94:39
+108            android:name="com.wix.reactnativenotifications.fcm.FcmInstanceIdRefreshHandlerService"
+108-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:92:13-99
+109            android:exported="false"
+109-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:94:13-37
+110            android:permission="android.permission.BIND_JOB_SERVICE" />
+110-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:93:13-69
+111        <service
+111-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:95:9-97:39
+112            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService"
+112-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:96:13-103
+113            android:exported="false" />
+113-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:97:13-37
+114        <service
+114-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:98:9-104:19
+115            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+115-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:99:13-95
+116            android:exported="false" >
+116-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:100:13-37
+117            <intent-filter>
+117-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:101:13-103:29
+118                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+118-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:87:17-77
+118-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:87:25-75
+119            </intent-filter>
+120        </service>
+121
+122        <receiver
+122-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:105:9-112:20
+123            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
+123-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:106:13-96
+124            android:exported="true"
+124-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:108:13-36
+125            android:permission="com.google.android.c2dm.permission.SEND" >
+125-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:107:13-73
+126            <intent-filter>
+126-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:109:13-111:29
+127                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+127-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:110:17-80
+127-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:110:25-78
+128            </intent-filter>
+129        </receiver>
+130
+131        <meta-data
+131-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:113:9-115:35
+132            android:name="firebase_messaging_auto_init_enabled"
+132-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:114:13-64
+133            android:value="true" />
+133-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:115:13-33
+134        <meta-data
+134-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:116:9-118:40
+135            android:name="com.google.firebase.messaging.default_notification_channel_id"
+135-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:117:13-89
+136            android:value="messaging" />
+136-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:118:13-38
+137        <meta-data
+137-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:119:9-121:46
+138            android:name="com.google.firebase.messaging.default_notification_color"
+138-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:120:13-84
+139            android:resource="@color/white" />
+139-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:121:13-44
+140        <meta-data
+140-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:122:9-124:35
+141            android:name="app_data_collection_default_enabled"
+141-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:123:13-63
+142            android:value="true" />
+142-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:124:13-33
+143
+144        <service
+144-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:125:9-156:19
+145            android:name="com.google.firebase.components.ComponentDiscoveryService"
+145-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:126:13-84
+146            android:directBootAware="true"
+146-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:128:13-43
+147            android:exported="false" >
+147-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:127:13-37
+148            <meta-data
+148-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:129:13-131:84
+149                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
+149-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:130:17-120
+150                android:value="com.google.firebase.components.ComponentRegistrar" />
+150-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:131:17-82
+151            <meta-data
+151-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:132:13-134:84
+152                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar"
+152-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:133:17-122
+153                android:value="com.google.firebase.components.ComponentRegistrar" />
+153-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:134:17-82
+154            <meta-data
+154-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:135:13-137:84
+155                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+155-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:136:17-119
+156                android:value="com.google.firebase.components.ComponentRegistrar" />
+156-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:137:17-82
+157            <meta-data
+157-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:138:13-140:84
+158                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+158-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:139:17-139
+159                android:value="com.google.firebase.components.ComponentRegistrar" />
+159-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:140:17-82
+160            <meta-data
+160-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:141:13-143:84
+161                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
+161-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:142:17-130
+162                android:value="com.google.firebase.components.ComponentRegistrar" />
+162-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:143:17-82
+163            <meta-data
+163-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:144:13-146:84
+164                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+164-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:145:17-127
+165                android:value="com.google.firebase.components.ComponentRegistrar" />
+165-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:146:17-82
+166            <meta-data
+166-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:147:13-149:84
+167                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+167-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:148:17-116
+168                android:value="com.google.firebase.components.ComponentRegistrar" />
+168-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:149:17-82
+169            <meta-data
+169-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:150:13-152:84
+170                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+170-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:151:17-109
+171                android:value="com.google.firebase.components.ComponentRegistrar" />
+171-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:152:17-82
+172            <meta-data
+172-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:153:13-155:84
+173                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+173-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:154:17-115
+174                android:value="com.google.firebase.components.ComponentRegistrar" />
+174-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:155:17-82
+175        </service>
+176
+177        <provider
+177-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:157:9-161:37
+178            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
+178-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:158:13-88
+179            android:authorities="repfirst.io.reactnativefirebaseappinitprovider"
+179-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:160:13-81
+180            android:exported="false"
+180-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:159:13-37
+181            android:initOrder="99" />
+181-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:161:13-35
+182
+183        <receiver
+183-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:162:9-172:20
+184            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+184-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:163:13-78
+185            android:exported="true"
+185-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:165:13-36
+186            android:permission="com.google.android.c2dm.permission.SEND" >
+186-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:164:13-73
+187            <intent-filter>
+187-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:109:13-111:29
+188                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+188-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:110:17-80
+188-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:110:25-78
+189            </intent-filter>
+190
+191            <meta-data
+191-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:169:13-171:39
+192                android:name="com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED"
+192-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:170:17-92
+193                android:value="true" />
+193-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:171:17-37
+194        </receiver>
+195
+196        <service
+196-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:173:9-180:19
+197            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+197-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:174:13-82
+198            android:directBootAware="true"
+198-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:176:13-43
+199            android:exported="false" >
+199-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:175:13-37
+200            <intent-filter android:priority="-500" >
+200-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:101:13-103:29
+200-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:177:28-51
+201                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+201-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:87:17-77
+201-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:87:25-75
+202            </intent-filter>
+203        </service>
+204
+205        <meta-data
+205-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:181:9-183:36
+206            android:name="io.sentry.auto-init"
+206-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:182:13-47
+207            android:value="false" />
+207-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:183:13-34
+208
+209        <provider
+209-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:184:9-192:20
+210            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
+210-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:185:13-94
+211            android:authorities="repfirst.io.provider"
+211-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:187:13-55
+212            android:exported="false"
+212-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:186:13-37
+213            android:grantUriPermissions="true" >
+213-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:188:13-47
+214            <meta-data
+214-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:60:13-62:69
+215                android:name="android.support.FILE_PROVIDER_PATHS"
+215-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:61:17-67
+216                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
+216-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:62:17-67
+217        </provider>
+218
+219        <activity
+219-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:193:9-195:62
+220            android:name="com.yalantis.ucrop.UCropActivity"
+220-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:195:13-60
+221            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+221-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:194:13-69
+222        <activity
+222-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:196:9-199:38
+223            android:name="androidx.biometric.DeviceCredentialHandlerActivity"
+223-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:198:13-78
+224            android:exported="true"
+224-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:199:13-36
+225            android:theme="@style/DeviceCredentialHandlerTheme" />
+225-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:197:13-64
+226
+227        <provider
+227-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:200:9-208:20
+228            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+228-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:201:13-83
+229            android:authorities="repfirst.io.fileprovider"
+229-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:203:13-59
+230            android:exported="false"
+230-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:202:13-37
+231            android:grantUriPermissions="true" >
+231-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:204:13-47
+232            <meta-data
+232-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:60:13-62:69
+233                android:name="android.support.FILE_PROVIDER_PATHS"
+233-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:61:17-67
+234                android:resource="@xml/file_provider_paths" />
+234-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:62:17-67
+235        </provider>
+236        <provider
+236-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:209:9-217:20
+237            android:name="com.RNFetchBlob.Utils.FileProvider"
+237-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:210:13-62
+238            android:authorities="repfirst.io.provider"
+238-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:212:13-55
+239            android:exported="false"
+239-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:211:13-37
+240            android:grantUriPermissions="true" >
+240-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:213:13-47
+241            <meta-data
+241-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:60:13-62:69
+242                android:name="android.support.FILE_PROVIDER_PATHS"
+242-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:61:17-67
+243                android:resource="@xml/provider_paths" />
+243-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:62:17-67
+244        </provider>
+245
+246        <property
+246-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:218:9-220:60
+247            android:name="android.adservices.AD_SERVICES_CONFIG"
+247-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:219:13-65
+248            android:resource="@xml/ga_ad_services_config" />
+248-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:220:13-58
+249
+250        <receiver
+250-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:221:9-224:39
+251            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+251-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:222:13-85
+252            android:enabled="true"
+252-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:223:13-35
+253            android:exported="false" />
+253-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:224:13-37
+254
+255        <service
+255-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:225:9-228:39
+256            android:name="com.google.android.gms.measurement.AppMeasurementService"
+256-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:226:13-84
+257            android:enabled="true"
+257-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:227:13-35
+258            android:exported="false" />
+258-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:228:13-37
+259        <service
+259-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:229:9-233:39
+260            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+260-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:230:13-87
+261            android:enabled="true"
+261-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:232:13-35
+262            android:exported="false"
+262-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:233:13-37
+263            android:permission="android.permission.BIND_JOB_SERVICE" />
+263-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:231:13-69
+264
+265        <uses-library
+265-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:234:9-236:39
+266            android:name="android.ext.adservices"
+266-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:235:13-50
+267            android:required="false" />
+267-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:236:13-37
+268
+269        <activity
+269-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:237:9-241:48
+270            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+270-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:239:13-93
+271            android:excludeFromRecents="true"
+271-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:241:13-46
+272            android:exported="false"
+272-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:240:13-37
+273            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+273-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:238:13-72
+274
+275        <service
+275-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:242:9-246:50
+276            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+276-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:243:13-89
+277            android:exported="true"
+277-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:245:13-36
+278            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+278-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:244:13-107
+279            android:visibleToInstantApps="true" />
+279-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:246:13-48
+280
+281        <meta-data
+281-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:247:9-249:42
+282            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+282-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:248:13-84
+283            android:value="GlideModule" />
+283-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:249:13-40
+284
+285        <activity
+285-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:250:9-255:117
+286            android:name="net.openid.appauth.AuthorizationManagementActivity"
+286-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:252:13-78
+287            android:configChanges="smallestScreenSize|screenSize|screenLayout|orientation|keyboardHidden|keyboard"
+287-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:255:13-115
+288            android:exported="false"
+288-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:253:13-37
+289            android:launchMode="singleTask"
+289-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:254:13-44
+290            android:theme="@style/Theme.AppCompat.Translucent.NoTitleBar" />
+290-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:251:13-74
+291        <activity
+291-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:256:9-265:20
+292            android:name="net.openid.appauth.RedirectUriReceiverActivity"
+292-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:257:13-74
+293            android:exported="true" >
+293-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:258:13-36
+294            <intent-filter>
+294-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:259:13-264:29
+295                <action android:name="android.intent.action.VIEW" />
+295-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:29:13-64
+295-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:29:21-62
+296
+297                <category android:name="android.intent.category.DEFAULT" />
+297-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:77:17-75
+297-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:77:27-73
+298                <category android:name="android.intent.category.BROWSABLE" />
+298-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:30:13-73
+298-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:30:23-71
+299
+300                <data android:scheme="riata.auth" />
+300-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:31:13-43
+300-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:31:19-41
+301            </intent-filter>
+302        </activity>
+303        <activity
+303-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:266:9-269:39
+304            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+304-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:268:13-79
+305            android:exported="false"
+305-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:269:13-37
+306            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+306-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:267:13-72
+307
+308        <provider
+308-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:270:9-275:45
+309            android:name="com.google.firebase.provider.FirebaseInitProvider"
+309-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:271:13-77
+310            android:authorities="repfirst.io.firebaseinitprovider"
+310-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:273:13-67
+311            android:directBootAware="true"
+311-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:275:13-43
+312            android:exported="false"
+312-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:272:13-37
+313            android:initOrder="100" />
+313-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:274:13-36
+314
+315        <meta-data
+315-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:276:9-278:68
+316            android:name="com.google.android.gms.version"
+316-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:277:13-58
+317            android:value="@integer/google_play_services_version" />
+317-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:278:13-66
+318
+319        <service
+319-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:279:9-285:19
+320            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+320-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:280:13-103
+321            android:exported="false" >
+321-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:281:13-37
+322            <meta-data
+322-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:282:13-284:38
+323                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+323-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:283:17-94
+324                android:value="cct" />
+324-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:284:17-36
+325        </service>
+326        <service
+326-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:286:9-289:39
+327            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+327-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:287:13-117
+328            android:exported="false"
+328-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:289:13-37
+329            android:permission="android.permission.BIND_JOB_SERVICE" />
+329-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:288:13-69
+330
+331        <receiver
+331-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:290:9-292:39
+332            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+332-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:291:13-132
+333            android:exported="false" />
+333-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:292:13-37
+334
+335        <provider
+335-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:293:9-296:67
+336            android:name="io.sentry.android.core.SentryInitProvider"
+336-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:294:13-69
+337            android:authorities="repfirst.io.SentryInitProvider"
+337-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:296:13-65
+338            android:exported="false" />
+338-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:295:13-37
+339        <provider
+339-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:297:9-301:38
+340            android:name="io.sentry.android.core.SentryPerformanceProvider"
+340-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:298:13-76
+341            android:authorities="repfirst.io.SentryPerformanceProvider"
+341-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:300:13-72
+342            android:exported="false"
+342-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:299:13-37
+343            android:initOrder="200" />
+343-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:301:13-36
+344        <provider
+344-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:302:9-312:20
+345            android:name="androidx.startup.InitializationProvider"
+345-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:303:13-67
+346            android:authorities="repfirst.io.androidx-startup"
+346-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:305:13-63
+347            android:exported="false" >
+347-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:304:13-37
+348            <meta-data
+348-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:306:13-308:51
+349                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+349-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:307:17-75
+350                android:value="androidx.startup" />
+350-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:308:17-49
+351            <meta-data
+351-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:309:13-311:51
+352                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+352-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:310:17-78
+353                android:value="androidx.startup" />
+353-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:311:17-49
+354        </provider>
+355
+356        <meta-data
+356-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:313:9-315:35
+357            android:name="com.android.dynamic.apk.fused.modules"
+357-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:314:13-65
+358            android:value="base" />
+358-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:315:13-33
+359        <meta-data
+359-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:316:9-318:60
+360            android:name="com.android.stamp.source"
+360-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:317:13-52
+361            android:value="https://play.google.com/store" />
+361-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:318:13-58
+362        <meta-data
+362-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:319:9-321:56
+363            android:name="com.android.stamp.type"
+363-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:320:13-50
+364            android:value="STAMP_TYPE_STANDALONE_APK" />
+364-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:321:13-54
+365        <meta-data
+365-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:322:9-324:46
+366            android:name="com.android.vending.splits"
+366-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:323:13-54
+367            android:resource="@xml/splits0" />
+367-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:324:13-44
+368        <meta-data
+368-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:325:9-327:32
+369            android:name="com.android.vending.derived.apk.id"
+369-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:326:13-62
+370            android:value="2" />
+370-->C:\Users\Official\Desktop\GradleRep\app\src\main\AndroidManifest.xml:327:13-30
+371    </application>
+372
+373</manifest>

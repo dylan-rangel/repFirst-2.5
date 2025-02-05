@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Official\\Desktop\\GradleRep\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v17\\values-ldltr-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Official\\Desktop\\GradleRep\\app\\src\\main\\res\\values-ldltr\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "185"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "182"
+                    }
+                }
+            ]
+        }
+    ]
+}

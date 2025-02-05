@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Official\\Desktop\\GradleRep\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-he\\values-he.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Official\\Desktop\\GradleRep\\app\\src\\main\\res\\values-he\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,117,175,230,286,330,390,436,494,547,594",
+                        "endColumns": "58,56,53,54,42,58,44,56,51,45,54",
+                        "endOffsets": "111,169,224,280,324,384,430,488,541,588,644"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,171,225,280,323,382,427,484,536,582",
+                        "endColumns": "58,56,53,54,42,58,44,56,51,45,54",
+                        "endOffsets": "109,166,220,275,318,377,422,479,531,577,632"
+                    }
+                }
+            ]
+        }
+    ]
+}

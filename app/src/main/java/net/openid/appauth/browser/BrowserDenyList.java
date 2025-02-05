@@ -1,0 +1,25 @@
+package net.openid.appauth.browser;
+
+import java.util.Arrays;
+import java.util.Iterator;
+import java.util.List;
+
+/* loaded from: classes3.dex */
+public class BrowserDenyList implements BrowserMatcher {
+    private List<BrowserMatcher> mBrowserMatchers;
+
+    public BrowserDenyList(BrowserMatcher... matchers) {
+        this.mBrowserMatchers = Arrays.asList(matchers);
+    }
+
+    @Override // net.openid.appauth.browser.BrowserMatcher
+    public boolean matches(BrowserDescriptor descriptor) {
+        Iterator<BrowserMatcher> it = this.mBrowserMatchers.iterator();
+        while (it.hasNext()) {
+            if (it.next().matches(descriptor)) {
+                return false;
+            }
+        }
+        return true;
+    }
+}
